@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+int fibonacci(int x);
+
 int main(void){
 	int i;
 	int sum=0;
@@ -14,7 +16,7 @@ int main(void){
 	return EXIT_SUCCESS;
 }
 
-int fibonacci(x){
+int fibonacci(int x){
 	if(x>=3){
 		return fibonacci(x-1)+fibonacci(x-2);
 	}else if(x==2){
