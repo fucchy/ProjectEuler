@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main(int argc,char* argv[]){
+int main(void){
 	int x;
 	int y=1000;
 	int sum=0;
