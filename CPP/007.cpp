@@ -8,10 +8,11 @@ int main(int argc,char* argv[]){
     start=clock();
     int n=10001;
 
+    // n番目の素数を表示
     std::cout<<nth_Prime(n)<<std::endl;
 
     end=clock();
-    std::cout<<"time:"<<(end-start)/1000<<"ms"<<std::endl;
+    std::cout<<"time:"<<(double)(end-start)/CLOCKS_PER_SEC<<"ms"<<std::endl;
 
     return 0;
 }
