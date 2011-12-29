@@ -16,7 +16,7 @@ int main(int argc,char* argv[]){
 	std::cout<<sum<<std::endl;
 
 	end=clock();
-	std::cout<<"time:"<<end-start<<std::endl;
+	std::cout<<"time:"<<(double)(end-start)/CLOCKS_PER_SEC<<"ms"<<std::endl;
 
 	return 0;
 }
