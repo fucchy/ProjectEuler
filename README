@@ -12,11 +12,14 @@ C(ISO/IEC 9899:1999;通称C99)
 C++(ISO/IEC 14882:2003)
 -> GNU Compiler Collection 4.6.1
 
+C#
+-> Microsoft Visual C# 2010
+
 F#
 -> Microsoft Visual F# 2010
 
-Perl
--> Perl 5, version 12, subversion 4 (v5.12.4)
+Fortran
+-> 
 
 PHP
 -> PHP 5.3.6
@@ -26,6 +29,9 @@ PowerShell
 
 Python
 -> Python 2.7.2
+
+Perl
+-> Perl 5, version 12, subversion 4 (v5.12.4)
 
 Ruby
 -> Ruby 1.8.7
