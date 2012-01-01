@@ -7,10 +7,10 @@ http://odz.sakura.ne.jp/projecteuler/
 -----
 各言語(の利用規格)と、想定しているコンパイラとそのバージョン一覧
 C(ISO/IEC 9899:1999;通称C99)
--> GNU Compiler Collection 4.6.0
+-> GNU Compiler Collection 4.6.1
 
 C++(ISO/IEC 14882:2003)
--> GNU Compiler Collection 4.6.0
+-> GNU Compiler Collection 4.6.1
 
 F#
 -> Microsoft Visual F# 2010
