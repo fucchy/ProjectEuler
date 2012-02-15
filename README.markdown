@@ -23,16 +23,16 @@
 #### OCaml ####
 
 #### PHP ####
-`PHP 5.3.6`
+`PHP 5.3.10`
 
 #### PowerShell ####
 `Windows PowerShell v2.0.50727`
 
 #### Python ####
-`Python 2.7.2`
+`Python 3.2.2`
 
 #### Perl ####
-`Perl 5, version 12, subversion 4 (v5.12.4)`
+`Perl 5, version 14, subversion 2 (v5.14.2)`
 
 #### Ruby ####
-`Ruby 1.8.7`
+`Ruby 1.9.3 p0`
