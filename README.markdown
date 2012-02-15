@@ -7,10 +7,10 @@
 各言語(の利用規格)と、想定しているコンパイラとそのバージョン一覧
 -----
 #### C (ISO/IEC 9899:1999;通称C99) ####
-`[GNU Compiler Collection 4.6.2](http://gcc.gnu.org/)`
+`GNU Compiler Collection 4.6.2`
 
 #### C++ (ISO/IEC 14882:2003) ####
-`[GNU Compiler Collection 4.6.2](http://gcc.gnu.org/)`
+`GNU Compiler Collection 4.6.2`
 
 #### C# ####
 `Microsoft Visual C# 2010`
